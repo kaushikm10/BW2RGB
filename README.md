@@ -1,1 +1,1 @@
-# BW2RGB
+### GrayScale Image Colorization using AutoEncoders
